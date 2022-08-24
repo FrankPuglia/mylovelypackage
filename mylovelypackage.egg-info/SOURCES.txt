@@ -1,0 +1,9 @@
+setup.py
+mylovelypackage/__init__.py
+mylovelypackage/app.py
+mylovelypackage.egg-info/PKG-INFO
+mylovelypackage.egg-info/SOURCES.txt
+mylovelypackage.egg-info/dependency_links.txt
+mylovelypackage.egg-info/not-zip-safe
+mylovelypackage.egg-info/requires.txt
+mylovelypackage.egg-info/top_level.txt
